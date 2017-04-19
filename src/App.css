@@ -1,0 +1,22 @@
+.navbar {
+  height: 50px;
+  background-color: white;
+}
+
+.body {
+  height: 1000px;
+  background-color: whitesmoke;
+}
+
+.nav-buttons {
+  display: flex;
+  list-style: none;
+}
+
+.nav-buttons>li {
+  margin-left: 5px;
+}
+
+.selected {
+  color: blue;
+}
